@@ -1,0 +1,26 @@
+.Modal__container {
+  position: relative;
+  top: 10rem;
+  background-color: rgb(54, 0, 248);
+  padding: 1rem;
+  width: 400px;
+}
+
+.Modal__close-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+  background-color: rgb(80, 132, 245);
+  padding: 0.5rem 1rem;
+}
+
+.Modal {
+  position: absolute;
+  top: 0.5rem;
+  padding: 5rem;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  width: 1000px;
+}

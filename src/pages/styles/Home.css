@@ -15,10 +15,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
 }
 
 @media screen and (min-width: 768px) {
   .Home__col {
     align-items: flex-start;
+    
   }
 }
